@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\ĐA"
+		},
+		{
+			"path": "..\\..\\..\\.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp",
+			"iomanip": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
